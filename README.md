@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner con imagen de fondo -->
-<img width="100%" src="https://i.imgur.com/TU_IMAGEN.png" alt="Banner" />
+<img width="100%" src="https://static.vecteezy.com/system/resources/previews/000/677/302/non_2x/abstract-technology-banner-background.jpg" alt="Banner" />
 
 <!-- Texto del nombre encima (puedes ajustar la posición) -->
 <h1 align="center" style="margin-top: -100px;">
