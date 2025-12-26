@@ -1,7 +1,12 @@
 <div align="center">
 
 <!-- Banner con imagen de fondo -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jhomerson%20Salcedo&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" />
+<img width="100%" src="https://i.imgur.com/TU_IMAGEN.png" alt="Banner" />
+
+<!-- Texto del nombre encima (puedes ajustar la posición) -->
+<h1 align="center" style="margin-top: -100px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Jhonatan+Salcedo" alt="Nombre" />
+</h1>
 
 <!-- Texto dinámico debajo del nombre -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%92%BB;Backend+Developer+%E2%9A%99%EF%B8%8F;Full+Stack+Engineer+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
@@ -20,7 +25,7 @@ Soy un desarrollador en formación apasionado por el mundo de la programación. 
 📚 **Estado actual:** Aprendiendo desarrollo web  
 🎯 **Objetivo:** Convertirme en Full Stack Developer  
 💡 **Lema:** "Cada línea de código es un paso hacia adelante"  
-📧 **Contacto:** jhomerson05@gmail.com
+📧 **Contacto:** tu-email@ejemplo.com
 
 ---
 
