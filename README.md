@@ -4,7 +4,7 @@
 <img width="100%" src="https://static.vecteezy.com/system/resources/previews/000/677/302/non_2x/abstract-technology-banner-background.jpg" alt="Banner" />
 
 <!-- Texto del nombre encima (puedes ajustar la posición) -->
-<h1 align="center" style="margin-top: -10px;">
+<h1 align="center" style="margin-top: -10px; position: relative; top: -50px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Jhomerson+Salcedo" alt="Nombre" />
 </h1>
 
