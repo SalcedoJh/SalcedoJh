@@ -25,7 +25,7 @@ Soy un desarrollador en formación apasionado por el mundo de la programación. 
 📚 **Estado actual:** Aprendiendo desarrollo web  
 🎯 **Objetivo:** Convertirme en Full Stack Developer  
 💡 **Lema:** "Cada línea de código es un paso hacia adelante"  
-📧 **Contacto:** tu-email@ejemplo.com
+📧 **Contacto:** jhomerson05@gmail.com
 
 ---
 
