@@ -9,7 +9,7 @@
 </h1>
 
 <!-- Texto dinámico debajo del nombre -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%92%BB;Backend+Developer+%E2%9A%99%EF%B8%8F;Full+Stack+Engineer+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=📊+Data+Analytics+%F0%9F%92%BB;Backend+Developer+%E2%9A%99%EF%B8%8F;💻+Desarrollador+Web+en+formación+%F0%9F%9A%80;🚀+Futuro+Full+Stack+%F0%9F%93%9A" alt="Typing SVG" />
 
 </div>
 
