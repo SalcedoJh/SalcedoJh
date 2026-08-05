@@ -25,10 +25,10 @@ Disfruto enfrentar nuevos desafíos, aprender nuevas herramientas y convertir id
 
 🚀 **Actualmente**
 
-💻 Aprendiendo Desarrollo Web (Frontend y Backend).
-📊 Estudiando Data Analytics y análisis de datos.
-📚 Construyendo proyectos para fortalecer mis habilidades.
-🌱 Aprendiendo nuevas tecnologías de manera constante.
+° 🌐 Aprendiendo Desarrollo Web (Frontend y Backend).
+° 📊 Estudiando Data Analytics y visualización de datos.
+° 🛠️ Creando proyectos para fortalecer mi portafolio.
+° 📚 Aprendiendo nuevas herramientas y buenas prácticas de desarrollo.
 
 🎯 **Objetivo**
 
