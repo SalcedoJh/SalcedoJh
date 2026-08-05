@@ -18,17 +18,22 @@
 ---
 
 ## 👨‍💻 Sobre mí
+### 💻 Desarrollador Web en formación | 📊 Data Analytics | 🚀 Futuro Full Stack Developer
 
 Soy un apasionado por la tecnología y el aprendizaje continuo. Actualmente me estoy formando en Desarrollo Web y Data Analytics, fortaleciendo mis habilidades tanto en la creación de aplicaciones como en el análisis de datos para obtener información valiosa y apoyar la toma de decisiones.
 
 Disfruto enfrentar nuevos desafíos, aprender nuevas herramientas y convertir ideas en proyectos reales. Cada día busco mejorar mis conocimientos y adquirir experiencia que me permita crecer como profesional.
 
-🚀 **Actualmente**
+---
 
-° 🌐 Aprendiendo Desarrollo Web (Frontend y Backend).
-° 📊 Estudiando Data Analytics y visualización de datos.
-° 🛠️ Creando proyectos para fortalecer mi portafolio.
-° 📚 Aprendiendo nuevas herramientas y buenas prácticas de desarrollo.
+## 🚀 Actualmente
+
+- 🌱 Aprendiendo **Desarrollo Web** (Frontend & Backend).
+- 📊 Estudiando **Data Analytics**.
+- 💻 Creando proyectos para fortalecer mi portafolio.
+- 📚 Aprendiendo nuevas tecnologías cada día.
+
+---
 
 🎯 **Objetivo**
 
@@ -54,7 +59,7 @@ Convertirme en un Full Stack Developer con sólidos conocimientos en Data Analyt
 **Python**  
 ![Python](https://img.shields.io/badge/Python-35%25-3776AB?style=flat&logo=python&logoColor=white)
 ```
-███████░░░░░░░░░░░░░ 35%
+█████████████░░░░░░░░ 55%
 ```
 
 **TypeScript**  
@@ -66,7 +71,7 @@ Convertirme en un Full Stack Developer con sólidos conocimientos en Data Analyt
 **HTML/CSS**  
 ![HTML](https://img.shields.io/badge/HTML%2FCSS-60%25-E34F26?style=flat&logo=html5&logoColor=white)
 ```
-████████████░░░░░░░░ 60%
+█████████████░░░░░░░ 60%
 ```
 
 </div>
@@ -84,19 +89,19 @@ Convertirme en un Full Stack Developer con sólidos conocimientos en Data Analyt
 **Node.js**  
 ![Node.js](https://img.shields.io/badge/Node.js-35%25-339933?style=flat&logo=node.js&logoColor=white)
 ```
-███████░░░░░░░░░░░░░ 35%
+██████░░░░░░░░░░░░░ 30%
 ```
 
 **Vue.js**  
 ![Vue.js](https://img.shields.io/badge/Vue.js-30%25-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ```
-██████░░░░░░░░░░░░░░ 30%
+██████░░░░░░░░░░░░░░ 25%
 ```
 
 **Express**  
 ![Express](https://img.shields.io/badge/Express-30%25-000000?style=flat&logo=express&logoColor=white)
 ```
-██████░░░░░░░░░░░░░░ 30%
+██████░░░░░░░░░░░░░░ 25%
 ```
 
 </div>
@@ -111,10 +116,10 @@ Convertirme en un Full Stack Developer con sólidos conocimientos en Data Analyt
 ██████░░░░░░░░░░░░░░ 30%
 ```
 
-**MySQL**  
+**SQL server**  
 ![MySQL](https://img.shields.io/badge/MySQL-35%25-4479A1?style=flat&logo=mysql&logoColor=white)
 ```
-███████░░░░░░░░░░░░░ 35%
+█████████████░░░░░░░░░░ 70%
 ```
 
 **PostgreSQL**  
