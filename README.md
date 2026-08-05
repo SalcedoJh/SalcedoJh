@@ -116,7 +116,7 @@ Convertirme en un Full Stack Developer con sólidos conocimientos en Data Analyt
 ```
 
 **SQL server**  
-![SqlServer](https://img.shields.io/badge/sqlserver-35%25-4479A1?style=flat&logo=sqlserver&logoColor=white)
+![SqlServer](https://img.shields.io/badge/sqlserver-70%25-4479A1?style=flat&logo=sqlserver&logoColor=white)
 ```
 █████████████░░░░░░░░░░ 70%
 ```
