@@ -115,10 +115,10 @@ Convertirme en un Full Stack Developer con sólidos conocimientos en Data Analyt
 ██████░░░░░░░░░░░░░░ 30%
 ```
 
-**SQL server**  
-![SqlServer](https://img.shields.io/badge/sqlserver-70%25-4479A1?style=flat&logo=sqlserver&logoColor=white)
-```
-█████████████░░░░░░░░░░ 70%
+**SQL Server**  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-70%25-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+```text
+██████████████░░░░░░ 70%
 ```
 
 **PostgreSQL**  
