@@ -116,7 +116,7 @@ Soy un desarrollador en formación apasionado por el mundo de la programación. 
 </div>
 
 ---
-
+<!-- Texto dinámico debajo del nombre
 ## 🎯 Proyectos Destacados
 
 <div align="center">
@@ -163,6 +163,8 @@ Soy un desarrollador en formación apasionado por el mundo de la programación. 
 
 ---
 
+ -->
+
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
@@ -190,7 +192,8 @@ Soy un desarrollador en formación apasionado por el mundo de la programación. 
 </div>
 
 <br/>
-
+<!-- Texto dinámico debajo del nombre
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </div>
+ -->
