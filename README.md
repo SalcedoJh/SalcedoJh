@@ -18,7 +18,6 @@
 ---
 
 ## 👨‍💻 Sobre mí
-### 💻 Desarrollador Web en formación | 📊 Data Analytics | 🚀 Futuro Full Stack Developer
 
 Soy un apasionado por la tecnología y el aprendizaje continuo. Actualmente me estoy formando en Desarrollo Web y Data Analytics, fortaleciendo mis habilidades tanto en la creación de aplicaciones como en el análisis de datos para obtener información valiosa y apoyar la toma de decisiones.
 
@@ -117,7 +116,7 @@ Convertirme en un Full Stack Developer con sólidos conocimientos en Data Analyt
 ```
 
 **SQL server**  
-![MySQL](https://img.shields.io/badge/MySQL-35%25-4479A1?style=flat&logo=mysql&logoColor=white)
+![SqlServer](https://img.shields.io/badge/sqlserver-35%25-4479A1?style=flat&logo=sqlserver&logoColor=white)
 ```
 █████████████░░░░░░░░░░ 70%
 ```
