@@ -19,11 +19,20 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy un desarrollador en formación apasionado por el mundo de la programación. Actualmente estoy dando mis primeros pasos en el desarrollo web y cada día aprendo algo nuevo. Me encanta enfrentar nuevos desafíos y aunque estoy al inicio de mi camino, tengo muchas ganas de crecer y mejorar mis habilidades. Mi objetivo es convertirme en un desarrollador full stack y crear proyectos que hagan la diferencia.
+Soy un apasionado por la tecnología y el aprendizaje continuo. Actualmente me estoy formando en Desarrollo Web y Data Analytics, fortaleciendo mis habilidades tanto en la creación de aplicaciones como en el análisis de datos para obtener información valiosa y apoyar la toma de decisiones.
 
-🌍 **Ubicación:** Lima, Perú  
-📚 **Estado actual:** Aprendiendo desarrollo web  
-🎯 **Objetivo:** Convertirme en Full Stack Developer  
+Disfruto enfrentar nuevos desafíos, aprender nuevas herramientas y convertir ideas en proyectos reales. Cada día busco mejorar mis conocimientos y adquirir experiencia que me permita crecer como profesional.
+
+🚀 **Actualmente**
+💻 Aprendiendo Desarrollo Web (Frontend y Backend).
+📊 Estudiando Data Analytics y análisis de datos.
+📚 Construyendo proyectos para fortalecer mis habilidades.
+🌱 Aprendiendo nuevas tecnologías de manera constante.
+
+🎯 **Objetivo**
+
+Convertirme en un Full Stack Developer con sólidos conocimientos en Data Analytics, desarrollando soluciones innovadoras basadas tanto en software como en datos.
+ 
 💡 **Lema:** "Cada línea de código es un paso hacia adelante"  
 📧 **Contacto:** jhomerson05@gmail.com
 
