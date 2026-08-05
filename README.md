@@ -24,6 +24,7 @@ Soy un apasionado por la tecnología y el aprendizaje continuo. Actualmente me e
 Disfruto enfrentar nuevos desafíos, aprender nuevas herramientas y convertir ideas en proyectos reales. Cada día busco mejorar mis conocimientos y adquirir experiencia que me permita crecer como profesional.
 
 🚀 **Actualmente**
+
 💻 Aprendiendo Desarrollo Web (Frontend y Backend).
 📊 Estudiando Data Analytics y análisis de datos.
 📚 Construyendo proyectos para fortalecer mis habilidades.
